@@ -1,4 +1,4 @@
-# FaceRecognitionDLModel
+# Face Recognition DL Model
 In this repository you will find a Deep Learning face recognition model trained with thermal pictures of 18 people. In some of these pictures people are wearing a cap, glasses or even both. 
 The database used is the "Terravic Facial IR Database" which is the dataset #4 available on the OTCBVS Benchmark Dataset Collection (https://vcipl-okstate.org/pbvs/bench/).
 
